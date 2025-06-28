@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Changelist non controllate predefinite",
+			"files": [
+				"C:/Users/alexd/Desktop/Computer Graphics/Computer-Graphics/ComputerGraphics/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/alexd/Desktop/Computer Graphics/Computer-Graphics/ComputerGraphics/Content/ComputerGrphic.umap",
+				"J:/Giochi/Epic Games/UE_5.4/Engine/Plugins/Fab/Content/Materials/Standard/M_MS_Base.uasset",
+				"J:/Giochi/Epic Games/UE_5.4/Engine/Plugins/Fab/Content/Materials/Standard/M_MS_Base_Fuzz.uasset",
+				"C:/Users/alexd/Desktop/Computer Graphics/Computer-Graphics/ComputerGraphics/Content/Fab/Megascans/3D/Massive_Nordic_Coastal_Cliff_vdssailfa/Medium/MI_vdssailfa.uasset",
+				"C:/Users/alexd/Desktop/Computer Graphics/Computer-Graphics/ComputerGraphics/Content/Fab/Megascans/3D/Massive_Nordic_Coastal_Cliff_veqnci0db/Medium/MI_veqnci0db.uasset",
+				"C:/Users/alexd/Desktop/Computer Graphics/Computer-Graphics/ComputerGraphics/Content/Fab/Megascans/3D/Mossy_Forest_Rock_vimrfjsaw/Medium/MI_vimrfjsaw.uasset",
+				"C:/Users/alexd/Desktop/Computer Graphics/Computer-Graphics/ComputerGraphics/Content/Fab/Megascans/3D/Massive_Nordic_Coastal_Cliff_vdssailfa/Medium/T_vdssailfa_2K_B.uasset",
+				"C:/Users/alexd/Desktop/Computer Graphics/Computer-Graphics/ComputerGraphics/Content/Fab/Megascans/3D/Massive_Nordic_Coastal_Cliff_vdssailfa/Medium/T_vdssailfa_2K_N.uasset",
+				"C:/Users/alexd/Desktop/Computer Graphics/Computer-Graphics/ComputerGraphics/Content/Fab/Megascans/3D/Massive_Nordic_Coastal_Cliff_vdssailfa/Medium/T_vdssailfa_2K_ORM.uasset",
+				"C:/Users/alexd/Desktop/Computer Graphics/Computer-Graphics/ComputerGraphics/Content/Fab/Megascans/3D/Massive_Nordic_Coastal_Cliff_veqnci0db/Medium/T_veqnci0db_2K_B.uasset",
+				"C:/Users/alexd/Desktop/Computer Graphics/Computer-Graphics/ComputerGraphics/Content/Fab/Megascans/3D/Massive_Nordic_Coastal_Cliff_veqnci0db/Medium/T_veqnci0db_2K_F.uasset",
+				"C:/Users/alexd/Desktop/Computer Graphics/Computer-Graphics/ComputerGraphics/Content/Fab/Megascans/3D/Massive_Nordic_Coastal_Cliff_veqnci0db/Medium/T_veqnci0db_2K_N.uasset",
+				"C:/Users/alexd/Desktop/Computer Graphics/Computer-Graphics/ComputerGraphics/Content/Fab/Megascans/3D/Massive_Nordic_Coastal_Cliff_veqnci0db/Medium/T_veqnci0db_2K_ORM.uasset",
+				"C:/Users/alexd/Desktop/Computer Graphics/Computer-Graphics/ComputerGraphics/Content/Fab/Megascans/3D/Mossy_Forest_Rock_vimrfjsaw/Medium/T_vimrfjsaw_2K_B.uasset",
+				"C:/Users/alexd/Desktop/Computer Graphics/Computer-Graphics/ComputerGraphics/Content/Fab/Megascans/3D/Mossy_Forest_Rock_vimrfjsaw/Medium/T_vimrfjsaw_2K_F.uasset",
+				"C:/Users/alexd/Desktop/Computer Graphics/Computer-Graphics/ComputerGraphics/Content/Fab/Megascans/3D/Mossy_Forest_Rock_vimrfjsaw/Medium/T_vimrfjsaw_2K_N.uasset",
+				"C:/Users/alexd/Desktop/Computer Graphics/Computer-Graphics/ComputerGraphics/Content/Fab/Megascans/3D/Mossy_Forest_Rock_vimrfjsaw/Medium/T_vimrfjsaw_2K_ORM.uasset",
+				"C:/Users/alexd/Desktop/Computer Graphics/Computer-Graphics/ComputerGraphics/Content/Fab/Megascans/3D/Massive_Nordic_Coastal_Cliff_vdssailfa/Medium/vdssailfa_tier_2.uasset",
+				"C:/Users/alexd/Desktop/Computer Graphics/Computer-Graphics/ComputerGraphics/Content/Fab/Megascans/3D/Massive_Nordic_Coastal_Cliff_veqnci0db/Medium/veqnci0db_tier_2.uasset",
+				"C:/Users/alexd/Desktop/Computer Graphics/Computer-Graphics/ComputerGraphics/Content/Fab/Megascans/3D/Mossy_Forest_Rock_vimrfjsaw/Medium/vimrfjsaw_tier_2.uasset"
+			]
+		}
+	]
+}
